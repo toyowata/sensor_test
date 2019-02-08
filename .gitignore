@@ -16,3 +16,4 @@ drivers/network/WIFI_ISM43362/
 drivers/storage/COMPONENT_NUSD/
 mbed_settings.py
 .mbed
+MMA7660FC/
